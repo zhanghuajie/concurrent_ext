@@ -1,0 +1,8 @@
+.idea
+*.iml
+*.pyc
+.DS_Store
+static/dist
+static/node_modules
+*.pyi
+pyrightconfig.json
